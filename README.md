@@ -43,17 +43,17 @@ Here are some screenshots of BlinkBlink in action:
 
 ### Windows
 
-1. Download the `.exe` installer from the [Releases](https://github.com/yourusername/blinkblink/releases) page.
+1. Download the `.exe` installer from the [Releases](https://github.com/frozen0601/blinkblink-releases/releases) page.
 2. Run the installer and follow the setup wizard to install BlinkBlink on your machine.
 
 ### macOS (Coming soon⚠️)
 
-1. Download the `.dmg` file from the [Releases](https://github.com/yourusername/blinkblink/releases) page.
+1. Download the `.dmg` file from the [Releases](https://github.com/frozen0601/blinkblink-releases/releases) page.
 2. Open the `.dmg` file and drag the BlinkBlink app to your Applications folder.
 
 ### Linux (Coming soon⚠️)
 
-1. Download the appropriate `.AppImage` or package for your distribution from the [Releases](https://github.com/yourusername/blinkblink/releases) page.
+1. Download the appropriate `.AppImage` or package for your distribution from the [Releases](https://github.com/frozen0601/blinkblink-releases/releases) page.
 2. Make the file executable and run it:
    ```bash
    chmod +x BlinkBlink.AppImage
@@ -83,16 +83,17 @@ BlinkBlink believes in focusing on what truly matters, so every detail is though
 
 - **Winky's Gentle Reminder**: Prefer a less intrusive interface than a full-screen overlay? No worries! Winky<img src="https://github.com/user-attachments/assets/030cfe98-dff7-4088-89f7-e81259a5bfdc" width="32">, our cute monster, will warmly remind you from the corner of your screen to take a break and protect your eyes. How cute is that!
 
-
 - **Work Period Settings**: During work, when your eyes are burning from hours of screen time, you’re grateful that BlinkBlink has your back. But after work, BlinkBlink can feel like an annoying reminder when all you want is to Netflix and chill without thinking about eye protection. No problem! Just set your work hours, and BlinkBlink will only protect your eyes while you’re working.
 
-- **Sound/Alert Options**: Let you choose between a subtle sound, vibration, or visual cue for the reminder, depending on their preferences.
+- **Sound/Alert Options**: Let you choose between a subtle sound, vibration, or visual cue for the reminder, depending on your preference.
+
+And more constant polishing. The devil’s in the details!
 
 ---
 
 ## Support and Contact
 
-- **Email**: [blinkblinkofficial@example.com](mailto:blinkblinkofficial@example.com)
+- **Email**: [theblinkblinkapp@gmail.com](mailto:theblinkblinkapp@gmail.com)
 - **Website**: Yet to come
 - **Donate**: Yet to come
 
