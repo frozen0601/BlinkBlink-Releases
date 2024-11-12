@@ -1,22 +1,41 @@
-# BlinkBlink <img src="https://github.com/user-attachments/assets/721ce601-b05d-448a-bb5e-4aa0573f633c" width="32">
+# BlinkBlink [<img src="https://github.com/user-attachments/assets/721ce601-b05d-448a-bb5e-4aa0573f633c" width="32">](https://github.com/frozen0601/BlinkBlink-Releases/releases)
 
 
 ### Desktop App for Eye Health and Productivity Breaks
 
-**BlinkBlink** is a desktop application designed to help users follow the **20-20-20 rule**, encouraging regular breaks to protect eye health and improve productivity. The app runs seamlessly in the background, reminding users when it's time to take a break with a clean, intuitive interface.
+**BlinkBlink** is a desktop app designed to help you follow the [**20-20-20 rule**](https://www.healthline.com/health/eye-health/20-20-20-rule#definition), encouraging regular breaks to protect your eyes and boost productivity. After dealing with dry eyes and eye strain for what felt like forever, I finally created **BlinkBlink** to help myself and others avoid the same discomfort. It runs seamlessly in the background with a simple, clean interface, making it effortless to maintain healthy screen habits.
+
+
+
 
 ---
 
 ## Features
-
-- **20-20-20 Rule Reminders**: Automatically reminds you to take breaks every 20 minutes to look at something 20 feet away for 20 seconds.
-- **Customizable Settings**: Configure your work and break intervals through a user-friendly settings page.
+- **Eye-Friendly Breaks**: Automatic 20-20-20 rule reminders to reduce eye strain.
+- **Custom Timers**: Easily set your work and break intervals to suit your routine.
 - **Cross-Platform**: Available on Windows, macOS, and Linux.
-- **Minimalist Dashboard**: View break stats, productivity streaks, and more.
-- **Auto Update**: Future-proof your app with auto-update functionality to always get the latest features and fixes.
-- **Multi-Screen Overlay**: Ensure break notifications are visible on all screens.
-- **Customization**: Adjust break intervals and notifications to suit your preferences.
-- **Streak Tracker**: Track your productivity streaks and stay motivated to follow healthy habits.
+- **Simple Dashboard**: View productivity streaks and break stats in a clean interface.
+- **Auto-Updates**: Stay current with automatic updates.
+- **Multi-Screen Support**: Break reminders visible on all screens.
+- **Fully Customizable**: Adjust break intervals and notifications to your preferences.
+- **Streak Tracker**: Track productivity streaks to stay motivated.
+- **System Theme Support**: Matches your system's light or dark mode.
+
+---
+
+
+## Screenshots
+
+Here are some screenshots of BlinkBlink in action:
+
+### Main Interface
+<img src="https://github.com/user-attachments/assets/9c00d39e-530d-4b12-9378-6d4e049b4e50" alt="Screenshot 1" width="1024">
+
+### Settings Page
+<img src="https://github.com/user-attachments/assets/1e39ba9b-d473-4cd2-8f43-681294dceea1" alt="Screenshot 2" width="1024">
+
+### Stats Dashboard
+<img src="https://github.com/user-attachments/assets/77bf359e-75bb-4794-817b-eba814b4b58a" alt="Stats screenshot" width="512">
 
 ---
 
