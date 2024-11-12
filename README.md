@@ -28,11 +28,11 @@
 
 Here are some screenshots of BlinkBlink in action:
 
-### Main Interface
+### Main Interface - Look Away 👀
 <img src="https://github.com/user-attachments/assets/9c00d39e-530d-4b12-9378-6d4e049b4e50" alt="Screenshot 1" width="1024">
 
-### Settings Page
-<img src="https://github.com/user-attachments/assets/1e39ba9b-d473-4cd2-8f43-681294dceea1" alt="Screenshot 2" width="1024">
+### Main Interface - Well Done 🎉
+<img src="https://github.com/user-attachments/assets/4f4858e2-0f3a-4ec0-8342-fe0428496f47" alt="Screenshot 2" width="1024">
 
 ### Stats Dashboard
 <img src="https://github.com/user-attachments/assets/77bf359e-75bb-4794-817b-eba814b4b58a" alt="Stats screenshot" width="512">
