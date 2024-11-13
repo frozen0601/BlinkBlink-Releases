@@ -45,11 +45,21 @@ Here are some screenshots of BlinkBlink in action:
 
 1. Download the `.exe` installer from the [Releases](https://github.com/frozen0601/blinkblink-releases/releases) page.
 2. Run the installer and follow the setup wizard to install BlinkBlink on your machine.
+3. Done! Check your system tray—BlinkBlink should now be up and running:)
 
-### macOS (Coming soon⚠️)
+### macOS
+_Mac users, I’m sorry you’ll need to take a couple of extra steps to get the app running. Basically, Apple requires developers to pay an annual fee of $99 to avoid these annoying security warnings. If we don’t pay, they make it harder for users to install apps, even when they’re perfectly safe._ 😞 _But don’t worry, I guarantee the extra step is totally worth it!_
 
 1. Download the `.dmg` file from the [Releases](https://github.com/frozen0601/blinkblink-releases/releases) page.
 2. Open the `.dmg` file and drag the BlinkBlink app to your Applications folder.
+3. **Open the Terminal application (you can find it in Applications > Utilities).**
+4. **Copy and paste the following command and paste into the Terminal, then hit Enter.**
+   ```bash
+   xattr - c /Applications/BlinkBlink.app
+   ```  
+5. Phew, done! Click on BlinkBlink, and it should now be running in your menu bar! 🎉
+
+##
 
 ### Linux (Coming soon⚠️)
 
