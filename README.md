@@ -59,17 +59,7 @@ Here are some screenshots of BlinkBlink in action:
 
    _Mac users, I’m sorry you’ll need to take these extra steps to get the app running. Basically, Apple requires developers to pay an annual fee of $99 to avoid these annoying security warnings. If we don’t pay, they make it harder for users to install apps, even when they’re perfectly safe._ 😞 _But don’t worry, I guarantee the extra step is totally worth it!_
 
-##
-
-### Linux (Coming soon⚠️)
-
-1. Download the appropriate `.AppImage` or package for your distribution from the [Releases](https://github.com/frozen0601/blinkblink-releases/releases) page.
-2. Make the file executable and run it:
-   ```bash
-   chmod +x BlinkBlink.AppImage
-   ./BlinkBlink.AppImage
-   ```
-
+### Linux (Coming soon🛠️)
 ---
 
 ## Usage
