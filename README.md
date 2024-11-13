@@ -48,8 +48,6 @@ Here are some screenshots of BlinkBlink in action:
 3. Done! Check your system tray—BlinkBlink should now be up and running:)
 
 ### macOS
-_Mac users, I’m sorry you’ll need to take a couple of extra steps to get the app running. Basically, Apple requires developers to pay an annual fee of $99 to avoid these annoying security warnings. If we don’t pay, they make it harder for users to install apps, even when they’re perfectly safe._ 😞 _But don’t worry, I guarantee the extra step is totally worth it!_
-
 1. Download the `.dmg` file from the [Releases](https://github.com/frozen0601/blinkblink-releases/releases) page.
 2. Open the `.dmg` file and drag the BlinkBlink app to your Applications folder.
 3. **Open the Terminal application (you can find it in Applications > Utilities).**
@@ -58,6 +56,8 @@ _Mac users, I’m sorry you’ll need to take a couple of extra steps to get the
    xattr - c /Applications/BlinkBlink.app
    ```  
 5. Phew, done! Click on BlinkBlink, and it should now be running in your menu bar! 🎉
+
+   _Mac users, I’m sorry you’ll need to take these extra steps to get the app running. Basically, Apple requires developers to pay an annual fee of $99 to avoid these annoying security warnings. If we don’t pay, they make it harder for users to install apps, even when they’re perfectly safe._ 😞 _But don’t worry, I guarantee the extra step is totally worth it!_
 
 ##
 
