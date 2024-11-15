@@ -53,7 +53,7 @@ Here are some screenshots of BlinkBlink in action:
 3. **Open the Terminal application (you can find it in Applications > Utilities).**
 4. **Copy and paste the following command and paste into the Terminal, then hit Enter.**
    ```bash
-   xattr - c /Applications/BlinkBlink.app
+   xattr -c /Applications/BlinkBlink.app
    ```  
 5. Phew, done! Click on BlinkBlink, and it should now be running in your menu bar! 🎉
 
