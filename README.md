@@ -12,14 +12,13 @@
 
 ## Features
 - **Eye-Friendly Breaks**: Automatic 20·20·20 rule reminders to reduce eye strain.
-- **Custom Timers**: Easily set your work and break intervals to suit your routine.
-- **Cross-Platform**: Available on Windows, macOS, and Linux.
+- **Work Timer**: Customize your schedule to keep BlinkBlink active only when you need it, ensuring focus during work and freedom during downtime.
 - **Simple Dashboard**: View productivity streaks and break stats in a clean interface.
-- **Auto-Updates**: Stay current with automatic updates.
 - **Multi-Screen Support**: Break reminders visible on all screens.
 - **Fully Customizable**: Adjust break intervals and notifications to your preferences.
-- **Streak Tracker**: Track productivity streaks to stay motivated.
 - **System Theme Support**: Matches your system's light or dark mode.
+- **Auto-Updates**: Stay current with automatic updates.
+- **Cross-Platform**: Available on Windows and macOS. (Linux support coming soon)
 
 ---
 
