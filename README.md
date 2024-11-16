@@ -3,7 +3,7 @@
 
 ### Desktop App for Eye Health and Productivity Breaks
 
-**BlinkBlink** is a desktop app designed to help you follow the [**20-20-20 rule**](https://www.healthline.com/health/eye-health/20-20-20-rule#definition), encouraging regular breaks to protect your eyes and boost productivity. After dealing with dry eyes and eye strain for what felt like forever, I finally created **BlinkBlink** to help myself and others avoid the same discomfort. It runs seamlessly in the background with a simple, clean interface, making it effortless to maintain healthy screen habits.
+**BlinkBlink** is a desktop app designed to help you follow the [**20·20·20 rule**](https://www.healthline.com/health/eye-health/20-20-20-rule#definition), encouraging regular breaks to protect your eyes and boost productivity. After dealing with dry eyes and eye strain for what felt like forever, I finally created **BlinkBlink** to help myself and others avoid the same discomfort. It runs seamlessly in the background with a simple, clean interface, making it effortless to maintain healthy screen habits.
 
 
 
@@ -11,7 +11,7 @@
 ---
 
 ## Features
-- **Eye-Friendly Breaks**: Automatic 20-20-20 rule reminders to reduce eye strain.
+- **Eye-Friendly Breaks**: Automatic 20·20·20 rule reminders to reduce eye strain.
 - **Custom Timers**: Easily set your work and break intervals to suit your routine.
 - **Cross-Platform**: Available on Windows, macOS, and Linux.
 - **Simple Dashboard**: View productivity streaks and break stats in a clean interface.
