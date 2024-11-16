@@ -50,7 +50,7 @@ Here are some screenshots of BlinkBlink in action:
 ### macOS
 1. Download the `.dmg` file from the [Releases](https://github.com/frozen0601/blinkblink-releases/releases) page.
 2. Open the `.dmg` file and drag the BlinkBlink app to your Applications folder.
-3. **Open the Terminal application (you can find it in Applications > Utilities).**
+3. **Open the Terminal application (you can press ⌘+Space and type "Terminal" or find it in Applications > Utilities).**
 4. **Copy and paste the following command and paste into the Terminal, then hit Enter.**
    ```bash
    xattr -c /Applications/BlinkBlink.app
