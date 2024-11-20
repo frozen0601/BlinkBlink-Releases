@@ -80,9 +80,7 @@ BlinkBlink includes an **auto-update** feature, so you’ll always have the late
 
 BlinkBlink believes in focusing on what truly matters, so every detail is thoughtfully designed with your well-being in mind. With that philosophy guiding us, here are a few exciting features on our roadmap:
 
-- **Winky's Gentle Reminder**: Prefer a less intrusive interface than a full-screen overlay? No worries! Winky<img src="https://github.com/user-attachments/assets/030cfe98-dff7-4088-89f7-e81259a5bfdc" width="32">, our cute monster, will warmly remind you from the corner of your screen to take a break and protect your eyes. How cute is that!
-
-- **Work Period Settings**: During work, when your eyes are burning from hours of screen time, you’re grateful that BlinkBlink has your back. But after work, BlinkBlink can feel like an annoying reminder when all you want is to Netflix and chill without thinking about eye protection. No problem! Just set your work hours, and BlinkBlink will only protect your eyes while you’re working.
+- **Winky's Gentle Reminder**: Prefer a less intrusive interface than a full-screen overlay? No worries! Winky<img src="https://github.com/user-attachments/assets/9e665748-017c-452a-89ac-51d0fadb7dec" width="32">, our cute monster, will warmly remind you from the corner of your screen to take a break and protect your eyes. How cute is that!
 
 - **Sound/Alert Options**: Let you choose between a subtle sound, vibration, or visual cue for the reminder, depending on your preference.
 
