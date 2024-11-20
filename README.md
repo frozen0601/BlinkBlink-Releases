@@ -91,8 +91,11 @@ And more constant polishing. The devil’s in the details!
 ## Support and Contact
 
 - **Email**: [theblinkblinkapp@gmail.com](mailto:theblinkblinkapp@gmail.com)
-- **Website**: Yet to come
-- **Donate**: Yet to come
+- **Website**: [https://blinkblinkapp.github.io/](https://blinkblinkapp.github.io/)
+
+- [Buy Mea Coffee](https://2ly.link/216p3)
+- [Support on Ko-fi](https://2ly.link/216p4)
+- [Donate via PayPal](https://2ly.link/216p8)
 
 ---
 
